@@ -1,0 +1,65 @@
+Protokoły w warstwie aplikacyjnej (warstwa 7):
+
+HTTP (Hypertext Transfer Protocol)
+HTTPS (Hypertext Transfer Protocol Secure)
+FTP (File Transfer Protocol)
+SMTP (Simple Mail Transfer Protocol)
+POP3 (Post Office Protocol 3)
+IMAP (Internet Message Access Protocol)
+DNS (Domain Name System)
+SNMP (Simple Network Management Protocol)
+Telnet
+Protokoły w warstwie transportowej (warstwa 4):
+
+TCP (Transmission Control Protocol)
+UDP (User Datagram Protocol)
+Protokoły w warstwie internetowej (warstwa 3):
+
+IP (Internet Protocol)
+ICMP (Internet Control Message Protocol)
+IGMP (Internet Group Management Protocol)
+Protokoły dostępu do sieci (warstwa 2):
+
+ARP (Address Resolution Protocol)
+RARP (Reverse Address Resolution Protocol)
+PPP (Point-to-Point Protocol)
+SLIP (Serial Line Internet Protocol)
+Protokoły dostępu do medium transmisyjnego (warstwa 1):
+
+Ethernet
+Wi-Fi (Wireless Fidelity)
+
+IRC - Internet Relay Chat
+
+
+
+Protokoły Sieciowe (TCP/IP):
+
+HTTP (Hypertext Transfer Protocol): Protokół do przesyłania danych w internecie.
+HTTPS (Hypertext Transfer Protocol Secure): Bezpieczna wersja protokołu HTTP, używająca SSL/TLS.
+FTP (File Transfer Protocol): Protokół do przesyłania plików między systemami.
+SMTP (Simple Mail Transfer Protocol): Protokół używany do przesyłania poczty elektronicznej.
+DNS (Domain Name System): Protokół do przekształcania nazw domenowych na adresy IP.
+TCP (Transmission Control Protocol): Protokół dostarczający niezawodną, połączeniową transmisję danych.
+UDP (User Datagram Protocol): Protokół dostarczający niezawodną transmisję danych bez utrzymywania stałego połączenia.
+IP (Internet Protocol): Protokół odpowiedzialny za dostarczanie pakietów danych w sieci.
+ICMP (Internet Control Message Protocol): Protokół używany do przesyłania komunikatów diagnostycznych i kontrolnych w sieci IP.
+IGMP (Internet Group Management Protocol): Protokół używany do zarządzania grupami multicastowymi w sieci.
+Protokoły Aplikacyjne:
+
+SSH (Secure Shell): Protokół do zdalnego zarządzania systemem komputerowym.
+Telnet: Protokół do zdalnego dostępu do terminala.
+SNMP (Simple Network Management Protocol): Protokół do monitorowania i zarządzania urządzeniami w sieci.
+POP3 (Post Office Protocol 3): Protokół do odbierania poczty elektronicznej.
+IMAP (Internet Message Access Protocol): Protokół do zarządzania i dostępu do skrzynki pocztowej.
+LDAP (Lightweight Directory Access Protocol): Protokół do dostępu do usług katalogowych.
+Protokoły Internetowe i Usługi:
+
+DNS (Domain Name System): Protokół do przekształcania nazw domenowych na adresy IP.
+BGP (Border Gateway Protocol): Protokół do wymiany informacji routingu między różnymi systemami autonomicznymi w internecie.
+DHCP (Dynamic Host Configuration Protocol): Protokół do dynamicznego przydzielania adresów IP w sieci.
+Inne Protokoły:
+
+Bluetooth: Zestaw protokołów do bezprzewodowej komunikacji między urządzeniami.
+NFC (Near Field Communication): Protokół do krótkodystansowej bezprzewodowej komunikacji między urządzeniami.
+XMPP (Extensible Messaging and Presence Protocol): Protokół do komunikacji w czasie rzeczywistym i obecności w sieci.
